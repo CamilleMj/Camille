@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
 <h3 align="center">Full stack newbie/student 😶‍🌫️</h3>
 
+-I'm a senior coach irl
+
+Completed my first ever website yay !
+
+Got a bit of design knowledge too
+
 - 🌱 currently learning **basic front-end**
 
 - 💬 Ask me about **Video Games 🎮**
