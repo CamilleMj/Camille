@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
 <h3 align="center">Full stack newbie/student 😶‍🌫️</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camillemj" alt="camillemj" /></a> </p>
-
 -I'm a senior coach irl
 Got a bit of design knowledge too
 
