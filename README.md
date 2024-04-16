@@ -2,6 +2,7 @@
 <h3 align="center">Full stack newbie/student 😶‍🌫️</h3>
 
 -I'm a senior coach irl
+
 -Got a bit of design knowledge too
 
 - 🔭 Completed my first hackathon [EpicRealm](https://github.com/CamilleMj/Hackathon_EpicRealm)
