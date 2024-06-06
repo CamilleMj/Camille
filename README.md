@@ -7,7 +7,7 @@
 
 - 🔭 Completed my first hackathon [EpicRealm](https://github.com/CamilleMj/Hackathon_EpicRealm)
 
-- 🌱 I’m currently learning **React.. Soon getting to Python ! 💪🏼**
+- 🌱 I’m currently learning **Python ! 💪🏼**
 
 - 👨‍💻 You can find my CV here 👉🏼 [https://github.com/CamilleMj/DI_Bootcamp_Stage1/tree/main/WEEK1/DAY4/CreateYourCV-BasicCSS](https://github.com/CamilleMj/DI_Bootcamp_Stage1/tree/main/WEEK1/DAY4/CreateYourCV-BasicCSS)
 
