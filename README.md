@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
-<h3 align="center">Full stack newbie/student 😶‍🌫️</h3>
+<h3 align="center">Full stack student 😶‍🌫️</h3>
 
 -I'm a senior coach irl
 
